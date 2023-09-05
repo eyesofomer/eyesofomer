@@ -1,4 +1,4 @@
-![MasterHead]
+![MasterHead](https://cdn1.ntv.com.tr/gorsel/bGJ8juPJk0iweHhckFdumw.jpg)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
  🌱 I’m currently learning **c# and python**
 
