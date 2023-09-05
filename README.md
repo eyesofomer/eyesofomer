@@ -1,4 +1,4 @@
-[![MasterHead]https://d33wubrfki0l68.cloudfront.net/f594274eb7ca4669d29d1a3662fea26d8f020965/669f6/images/category/development.jpg
+![MasterHead](https://cf.kizlarsoruyor.com/users/F8D9340A333D69C72D6BD7B1E85DF4A2/coverd.png)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 - 🌱 I’m currently learning **c# and python**
 
