@@ -1,6 +1,6 @@
 ![MasterHead](https://cf.kizlarsoruyor.com/users/F8D9340A333D69C72D6BD7B1E85DF4A2/coverd.png)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-- 🌱 I’m currently learning **c# and python**
+ 🌱 I’m currently learning **c# and python**
 
 - 💬 Ask me about **HTML, CSS**
 
